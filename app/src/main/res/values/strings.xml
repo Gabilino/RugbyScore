@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rugby Score</string>
+    <string name="team_a_name">Italy</string>
+    <string name="team_a_score">0</string>
+    <string name="button_try">Try</string>
+    <string name="button_conversation">Conversion</string>
+    <string name="button_drop_penalty">Drop/Penalty</string>
+    <string name="team_b_name">England</string>
+    <string name="team_b_score">0</string>
+    <string name="text_v">v</string>
+    <string name="button_reset">Reset</string>
+
+
+
+
+</resources>

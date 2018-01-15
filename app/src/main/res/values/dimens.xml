@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imagview_width">113dp</dimen>
+    <dimen name="imageview_height">76dp</dimen>
+    <dimen name="imageview_marginLeft">36dp</dimen>
+    <dimen name="imageview_marginTop">16dp</dimen>
+    <dimen name="textview_marginTop">16dp</dimen>
+    <dimen name="textview_padding">8dp</dimen>
+    <dimen name="text_size_teams">24sp</dimen>
+    <dimen name="text_size_scores">56sp</dimen>
+    <dimen name="button_marginBottom">8dp</dimen>
+    <dimen name="button_marginLeft">24dp</dimen>
+    <dimen name="button_marginRight">24dp</dimen>
+    <dimen name="textviewv_marginTop">105dp</dimen>
+    <dimen name="textsize_v">24sp</dimen>
+    <dimen name="button_reset_marginLeft">22dp</dimen>
+    <dimen name="button_reset_marginRight">22dp</dimen>
+
+
+
+
+
+
+    </resources>
