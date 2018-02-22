@@ -83,7 +83,7 @@
                     android:layout_marginRight="24dp"
                     android:fontFamily="casual"
                     android:onClick="addThreeForTeamA"
-                    android:text="Drop/Penalty" />
+                    android:text="Drop/Pen" />
 
             </LinearLayout>
 
@@ -152,7 +152,7 @@
                     android:layout_marginRight="24dp"
                     android:fontFamily="casual"
                     android:onClick="addThreeForTeamB"
-                    android:text="Drop/Penalty" />
+                    android:text="Drop/Pen" />
 
             </LinearLayout>
 
